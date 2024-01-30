@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://vilsiv.github.io/fr/sitemap.txt
