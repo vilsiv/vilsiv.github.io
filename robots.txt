@@ -2,3 +2,5 @@ User-Agent: *
 Disallow:
 
 Sitemap: https://vilsiv.github.io/fr/sitemap.txt
+Sitemap: https://vilsiv.github.io/es/sitemap.txt
+Sitemap: https://vilsiv.github.io/pt/sitemap.txt
